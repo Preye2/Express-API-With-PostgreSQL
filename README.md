@@ -22,6 +22,8 @@ A simple Express.js API that connects to PostgreSQL and performs CRUD operations
 
 ## Testing
 
+![Alt text](./images/screenshot.png)
+
 You can test the API using Postman or curl:
 
 ```bash
