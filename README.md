@@ -55,9 +55,15 @@ https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fpost-ap
 
 ---
 
-[PUT by ID(https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fput-user-id.jpg)
+![PUT by ID(https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fput-user-id.jpg)
 https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fput-user-id.jpg?raw=true
 
+---
+
+![Delete by ID(https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fdelete-user-id.jpg)
+https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fdelete-user-id.jpg?raw=true
+
+---
 
 You can test the API using Postman or curl:
 
