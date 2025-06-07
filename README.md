@@ -22,7 +22,7 @@ A simple Express.js API that connects to PostgreSQL and performs CRUD operations
 
 ## Testing
 
-https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fdatabase-is-connected.jpg
+https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fdatabase-is-connected.jpg?raw=true
 
 https://github.com/Preye2/Express-API-With-postgreSQL/blob/9bc72f58526d837b2ad4bfb2f7d3bb39bbdc4b97/images/database-is-connected.jpg
 
