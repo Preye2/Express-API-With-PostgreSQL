@@ -40,6 +40,11 @@ https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fget-api
 
 ---
 
+[GET All](https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fget-all-api.jpg)
+https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fget-all-api.jpg?raw=true
+
+---
+
 
 
 You can test the API using Postman or curl:
