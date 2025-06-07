@@ -33,6 +33,13 @@ ___
 ![Postgres DB connection](https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fpostgres-db.jpg)
 https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fpostgres-db.jpg?raw=true
 
+---
+
+![GET API Implementation](https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fget-api.jpg)
+https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fget-api.jpg?raw=true
+
+---
+
 
 
 You can test the API using Postman or curl:
