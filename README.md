@@ -53,6 +53,12 @@ https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fget-use
 ![POST API)(https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fpost-api.jpg)
 https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fpost-api.jpg?raw=true
 
+---
+
+[PUT by ID(https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fput-user-id.jpg)
+https://github.com/Preye2/Express-API-With-postgreSQL/blob/main/images%2Fput-user-id.jpg?raw=true
+
+
 You can test the API using Postman or curl:
 
 ```bash
